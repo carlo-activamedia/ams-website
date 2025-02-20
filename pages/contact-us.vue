@@ -9,7 +9,7 @@ export default {
   },
   head() {
     return {
-      title: 'Contact Us | Ambulance Medical Service',
+      title: 'Contact Us',
       meta: [{
         hid: 'description',
         name: 'description',

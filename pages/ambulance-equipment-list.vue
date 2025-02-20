@@ -1,6 +1,8 @@
 <script setup>
+const config = useRuntimeConfig()
+
 useHead({
-  title: 'Ambulance Equipment | Ambulance Medical Service',
+  title: 'Ambulance Equipment',
   meta: [{
     hid: 'description',
     name: 'description',
@@ -9,7 +11,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `https://www.ambulanceservice.com.sg/ambulance-equipment-list/`
+      href: config.canonicalBaseUrl + useRoute().path + '/'
     },
     { rel: "alternate", href: "https://www.ambulanceservice.com.sg/ambulance-equipment-list/", hreflang: 'x-default' },
     { rel: "alternate", href: "https://www.ambulanceservice.com.sg/ambulance-equipment-list/", hreflang: 'en-sg' }

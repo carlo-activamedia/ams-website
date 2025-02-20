@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Thank You | Ambulance Medical Service',
+  title: 'Thank You',
   // category: 'contact',
   link: [{
     rel: 'canonical',

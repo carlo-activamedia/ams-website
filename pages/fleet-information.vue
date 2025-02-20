@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Fleet Information | Ambulance Medical Service',
+  title: 'Fleet Information',
   meta: [{
     hid: 'description',
     name: 'description',

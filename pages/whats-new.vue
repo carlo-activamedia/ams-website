@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'What\'s New | Ambulance Medical Service',
+  title: 'What\'s New',
   meta: [{
     hid: 'description',
     name: 'description',
