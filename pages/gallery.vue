@@ -9,7 +9,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: useRuntimeConfig().canonicalBaseUrl + useRoute().path + '/'
+      href: `https://www.ambulanceservice.com.sg/gallery/`
     },
     { rel: "alternate", href: "https://www.ambulanceservice.com.sg/gallery/", hreflang: 'x-default' },
     { rel: "alternate", href: "https://www.ambulanceservice.com.sg/gallery/", hreflang: 'en-sg' }

@@ -8,7 +8,7 @@ useHead({
   }],
   link: [{
     rel: 'canonical',
-    href: useRuntimeConfig().canonicalBaseUrl + useRoute().path + '/'
+    href: `https://www.ambulanceservice.com.sg/event-standby/`
   },
   { rel: "alternate", href: "https://www.ambulanceservice.com.sg/event-standby/", hreflang: 'x-default' },
   { rel: "alternate", href: "https://www.ambulanceservice.com.sg/event-standby/", hreflang: 'en-sg' }

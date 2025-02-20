@@ -4,7 +4,7 @@ useHead({
   // category: 'contact',
   link: [{
     rel: 'canonical',
-    href: useRuntimeConfig().canonicalBaseUrl + useRoute().path + '/'
+    href: `https://www.ambulanceservice.com.sg/contact-success/`
   }]
 })
 </script>
