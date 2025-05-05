@@ -27,7 +27,8 @@ useHead({
         ambulance services</nuxt-link> in Singapore since 1999.
     </p>
     <p>
-      AMS has been awarded accreditation for providing Emergency Ambulance Medical / Transport Services compliant to the
+      AMS has been awarded accreditation for providing Emergency Ambulance Medical / <nuxt-link
+        to="/transport/">Transport Services</nuxt-link> compliant to the
       new MOH standards for Private Ambulance Operators that came into effect in 2019. AMS is also BizSAFE level 4 and
       ISO 9001 quality service certified. As a responsible pre-hospital healthcare provider, AMS is covered with
       professional indemnity and public liability insurance of S$1,000,000 & S$1000,000 respectively. AMS is GST

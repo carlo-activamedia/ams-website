@@ -82,15 +82,11 @@ useJsonld([{
 
 <template>
   <default-page>
-    <h1>Medical Transport</h1>
+    <h1>Medical Transport Service</h1>
     <p>
-      Ambulance Medical Service provides 24/7 transport within Singapore for
-      <a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/emergencyambulancestandards.pdf"
-        target="_blank">
-        Emergency Ambulance Services (EAS) and Medical Transport Services (MTS)</a>.
-      We are registered under SCDF’s
-      <a href="https://www.scdf.gov.sg/home/about-us/information/scdf-emergency-medical-services" target="new"
-        class="text_link">1777 non-emergency ambulance hotline.</a>
+      Ambulance Medical Service provides 24/7 transport within Singapore for Emergency Ambulance Services (EAS) and
+      Medical Transport Services (MTS).
+      We are registered under SCDF’s 1777 non-emergency ambulance hotline.
     </p>
     <p>
       A non-emergency ambulance team consists of 1 Ambulance, an Emergency Medical Technician (EMT) certified driver and
@@ -322,7 +318,7 @@ useJsonld([{
           </blockquote>
         </div>
         <div class="gallery_img">
-          <img src="/images/transport_new.JPG">
+          <img src="/images/transport_new.JPG" alt="Medical Transport Service">
         </div>
       </div>
       <div class="inner_service_box">
@@ -362,7 +358,7 @@ useJsonld([{
       </div>
     </div>
     <div id="inner_image">
-      <img src="/images/2.jpg">
+      <img src="/images/2.jpg" alt="Medical Transport Equipment">
     </div>
     <template v-slot:sidebar>
       <enquiry-box />

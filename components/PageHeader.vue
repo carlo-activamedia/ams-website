@@ -19,7 +19,7 @@ export default {
       <div id="logo_call_area">
         <div id="logo_area">
           <NuxtLink to="/">
-            <img src="/images/logo.png">
+            <img src="/images/logo.png" alt="Ambulance Medical Service in Singapore">
           </NuxtLink>
           <div class="certification-logos">
             <img src="/images/bizsafe_enterprise_level_4_thumb.jpg" alt="Biz SAFE Enterprise Level 4" class="cert-logo">
@@ -29,7 +29,7 @@ export default {
         <div id="call_area">
           <div id="call_icon_text_area">
             <div id="call_icon">
-              <img src="/images/tele_icon.png">
+              <img src="/images/tele_icon.png" alt="Private Ambulance Emergency Service 24/7 Hotline">
             </div>
             <div id="call_text_area">
               <div id="call_number">

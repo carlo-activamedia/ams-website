@@ -109,8 +109,8 @@ useJsonld([
               </div>
               <p>Welcome to Ambulance Medical Service! </p>
               <p>We have been serving Singaporeans since 1999, and we’re dedicated to serving our customers with premier
-                pre-hospital care and a smile. Come aboard with our friendly and experienced crew and let us look after
-                you! </p>
+                private ambulance and emergency ambulance services. Come aboard with our friendly and experienced crew
+                and let us look after you!</p>
               <p>These are the services that AMS offers:</p>
               <div style="clear:both;" />
               <div id="home_service_area">
@@ -118,7 +118,8 @@ useJsonld([
                   <a href="/transport/">
                     <div id="title_Purple_normal">Transport</div>
 
-                    <div class="service_img"><img src="/images/transport_service.png"></div>
+                    <div class="service_img"><img src="/images/transport_service.png"
+                        alt="Private Ambulance Emergency and Non-emergency Ambulance Service in Singapore"></div>
                     <div>
                       In view of COVID-19, enhanced preventive measures are in place for <strong>all regular
                         cases</strong>, including full Personal Protective Equipment (PPE) for all emergency cases.

@@ -208,7 +208,8 @@ useHead({
       </p>
       <p>
         Under new MOH regulations for improving stricter standards for <nuxt-link to="/">private ambulances</nuxt-link>,
-        AMS has been accredited for both Emergency Ambulance Services (EAS) and Medical Transport Services (MTS). With
+        AMS has been accredited for both Emergency Ambulance Services (EAS) and <nuxt-link to="/transport/">Medical
+          Transport Services (MTS)</nuxt-link>. With
         our
         commitment to maintaining professional services and top-line equipment, we are one of the earliest private
         ambulances to pass accreditation standards!
